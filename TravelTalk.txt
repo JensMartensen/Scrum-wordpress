@@ -1,0 +1,48 @@
+Casus 4: Reisblog met Gemeenschap voor Reistips
+
+Context:
+Een reisblogger wil een reiswebsite opzetten waar reizigers hun eigen reistips kunnen delen en artikelen kunnen lezen over verschillende bestemmingen. Het platform moet een interactieve gemeenschap bieden met tips, reisgidsen en persoonlijke ervaringen. Gebruikers kunnen reageren op blogposts en eigen tips of verhalen delen.
+
+Vereisten:
+
+1.Homepage:
+Overzicht van de laatste reisblogs, populaire bestemmingen en reiservaringen.
+Een sectie voor uitgelichte reisbestemmingen met mooie foto’s.
+2.Blogsectie:
+De blogger moet eenvoudig nieuwe blogartikelen kunnen plaatsen met foto’s en video’s.
+Gebruikers moeten kunnen reageren en hun ervaringen delen onder elk artikel.
+3.Responsiviteit en UX:
+De site moet gebruiksvriendelijk zijn op mobiele apparaten.
+
+User Stories: Als [type gebruiker], wil ik [doel], zodat [reden/voordeel].
+
+1.Reistips Community
+Als reiziger wil ik reistips kunnen zoeken op bestemming en type reis, zodat ik snel relevante informatie kan vinden.
+2.Gebruikersprofielen
+Als gebruiker wil ik mijn eigen reistips kunnen plaatsen, zodat ik mijn ervaringen kan delen met andere reizigers.
+3.Blogsectie
+Als reisblogger wil ik eenvoudig nieuwe artikelen kunnen plaatsen, zodat ik mijn volgers op de hoogte kan houden van mijn reizen.
+
+Pagina's
+1. Homepage:
+Welkom bij TravelTalk, jouw ultieme bron voor reistips en inspiratie! Of je nu een backpacker, luxe reiziger of avonturier bent, wij hebben alles wat je nodig hebt voor je volgende avontuur. Lees onze blogs of deel jouw eigen reistips met onze community.
+
+Call to Action: [Bekijk de nieuwste reistips]
+
+2. Reistips Community:
+Op zoek naar insider tips voor jouw volgende reis? Onze community van reizigers deelt persoonlijke ervaringen en advies over bestemmingen over de hele wereld. Gebruik de zoekfunctie om reistips te vinden op basis van jouw interesses!
+
+Categorieën: Budget reizen, Luxe vakanties, Avontuurlijke trips
+Populaire bestemmingen: Thailand, Italië, Peru
+
+3. Blogsectie:
+Welkom bij onze blog! Hier vind je reisverhalen, bestemmingstips en handige adviezen van ervaren reizigers.
+
+Laatste Blog: De verborgen parels van Zuidoost-Azië – Ontdek minder bekende bestemmingen voor jouw volgende avontuur.
+Populair: Hoe pak je efficiënt in voor een wereldreis en De beste street food-ervaringen in Mexico.
+
+4. Gebruikersprofielen:
+Maak een profiel aan en begin vandaag nog met het delen van jouw reistips. Volg andere reizigers, reageer op hun tips en word onderdeel van een groeiende community van wereldreizigers!
+
+Jouw tips: Beheer hier je gepubliceerde reistips.
+Favorieten: Bekijk je favoriete tips van andere reizigers.
